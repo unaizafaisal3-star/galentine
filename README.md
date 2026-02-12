@@ -5,7 +5,8 @@ An interactive, romantic web experience to ask someone to be your Galentine! Thi
 ## ✨ Features
 
 - **Landing Section** – A charming introduction with a call-to-action button
-- **Memories Carousel** – Showcase your favorite moments or reasons why you cherish the friendship
+- **Memories Carousel** – Showcase your favorite moments or reasons why you cherish the relationship
+- 
 - **Evasive "No" Button** – The "No" button escapes when hovered over (they can't escape! 😄)
 - **Celebration Screen** – Confetti animation and a victory message when they click "YES"
 - **Background Music** – Plays an instrumental as they explore (music toggle available)
